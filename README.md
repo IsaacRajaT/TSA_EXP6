@@ -4,8 +4,12 @@
 ### Reg No.: 212224040123
 
 
-
 ### AIM:
+   To implement Hold vinters method for time series and analysis.
+
+### REQUIREMENTS:
+   Dataset - salesdata.csv
+   Software - google collab
 
 ### ALGORITHM:
 1. You import the necessary libraries
